@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">LastApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello</string>
+    <string name="brent">Brent oil</string>
+    <string name="wti">West Texas Intermediate</string>
+    <string name="shutdown">shotdown</string>
+    <string name="oil">Crude oil futures</string>
+    <string name="tendency">tendency</string>
+    <string name="chart">line chart</string>
 </resources>

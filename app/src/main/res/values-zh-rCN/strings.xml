@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LastApp</string>
+    <string name="hello_blank_fragment">你好</string>
+    <string name="brent">伦敦布伦特原油</string>
+    <string name="wti">西德克萨斯轻质原油</string>
+    <string name="shutdown">关闭</string>
+    <string name="oil">原油期货</string>
+    <string name="tendency">趋势</string>
+    <string name="chart">折线图</string>
+</resources>
