@@ -8,5 +8,5 @@
     <string name="shutdown">shotdown</string>
     <string name="oil">Crude oil futures</string>
     <string name="tendency">tendency</string>
-    <string name="chart">line chart</string>
+    <string name="history">history</string>
 </resources>
